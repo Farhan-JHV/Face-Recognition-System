@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+opencv-python-headless
+scikit-learn
+numpy
+pandas
+gtts
+streamlit-autorefresh
+pyttsx3  # If you plan to switch back to pyttsx3 in the future
